@@ -1,0 +1,169 @@
+{
+  "universities": [
+    {
+      "name": "Lebanese American University",
+      "short_name": "LAU",
+      "domain": "lau.edu.lb",
+      "homepage": "https://www.lau.edu.lb",
+      "programs_url": "https://catalog.lau.edu.lb/2026-2027/undergraduate/programs/",
+      "admissions_url": "https://catalog.lau.edu.lb/2026-2027/undergraduate/admission.php",
+      "tuition_url": "https://www.lau.edu.lb/fees/2026-2027/",
+      "financial_aid_url": null,
+      "housing_url": "https://www.lau.edu.lb/fees/2026-2027/housing.php"
+    },
+    {
+      "name": "American University of Beirut",
+      "short_name": "AUB",
+      "domain": "aub.edu.lb",
+      "homepage": "https://www.aub.edu.lb",
+      "programs_url": null,
+      "admissions_url": "https://www.aub.edu.lb/Registrar/catalogue2026-27/ug/Pages/admissions.aspx",
+      "tuition_url": "https://www.aub.edu.lb/admissions/Pages/TuitionFinancialAssistance.aspx",
+      "financial_aid_url": "https://www.aub.edu.lb/faid/Pages/default.aspx",
+      "housing_url": null
+    },
+    {
+      "name": "Université Saint-Joseph de Beyrouth",
+      "short_name": "USJ",
+      "domain": "usj.edu.lb",
+      "homepage": "https://www.usj.edu.lb",
+      "programs_url": "https://www.usj.edu.lb/admission/pdf.php?lang=2",
+      "admissions_url": "https://usj.edu.lb/en/admission/demande",
+      "tuition_url": null,
+      "financial_aid_url": "https://usj.edu.lb/en/servicesocial",
+      "housing_url": null
+    },
+    {
+      "name": "Lebanese University",
+      "short_name": "LU",
+      "domain": "ul.edu.lb",
+      "homepage": "https://ul.edu.lb/en",
+      "programs_url": null,
+      "admissions_url": "https://ul.edu.lb/en/admission",
+      "tuition_url": null,
+      "financial_aid_url": null,
+      "housing_url": "https://ul.edu.lb/en/admission"
+    },
+    {
+      "name": "Beirut Arab University",
+      "short_name": "BAU",
+      "domain": "bau.edu.lb",
+      "homepage": "https://www.bau.edu.lb",
+      "programs_url": "https://www.bau.edu.lb/Undergraduate/Programs",
+      "admissions_url": "https://websitedev.bau.edu.lb/Admissions/ProspectiveStudents",
+      "tuition_url": null,
+      "financial_aid_url": null,
+      "housing_url": null
+    },
+    {
+      "name": "Holy Spirit University of Kaslik",
+      "short_name": "USEK",
+      "domain": "usek.edu.lb",
+      "homepage": "https://www.usek.edu.lb",
+      "programs_url": null,
+      "admissions_url": "https://www.usek.edu.lb/en/admission/for-undergraduate-studies",
+      "tuition_url": null,
+      "financial_aid_url": "https://www.usek.edu.lb/student-service-offices/financial-aid-office/services/submission-of-the-financial-aid-application",
+      "housing_url": null
+    },
+    {
+      "name": "Notre Dame University-Louaize",
+      "short_name": "NDU",
+      "domain": "ndu.edu.lb",
+      "homepage": "https://www.ndu.edu.lb",
+      "programs_url": "https://www.ndu.edu.lb/academics/undergraduate",
+      "admissions_url": "https://www.ndu.edu.lb/admission-requirements/undergraduate",
+      "tuition_url": "https://www.ndu.edu.lb/office-of-finance/tuition-fees",
+      "financial_aid_url": "https://www.ndu.edu.lb/admissions/overview",
+      "housing_url": "https://www.ndu.edu.lb/office-of-finance/tuition-fees"
+    },
+    {
+      "name": "University of Balamand",
+      "short_name": "UOB",
+      "domain": "balamand.edu.lb",
+      "homepage": "https://www.balamand.edu.lb",
+      "programs_url": "https://www.balamand.edu.lb/prospectiveStudents/Pages/ProspectiveStudents.aspx",
+      "admissions_url": "https://balamand.edu.lb/ProspectiveStudents/Pages/UndergraduateAdmissions.aspx",
+      "tuition_url": "https://www.balamand.edu.lb/Style%20Library/PDFs/ProspectiveStudents/AdmissionGuide.pdf?pdf=Admission-Guide",
+      "financial_aid_url": "https://www.balamand.edu.lb/CurrentStudents/FinancialSupport/Pages/FinancialSupport.aspx",
+      "housing_url": "https://balamand.edu.lb/CurrentStudents/CampusLife/Pages/StudentHousing.aspx"
+    },
+    {
+      "name": "Lebanese International University",
+      "short_name": "LIU",
+      "domain": "liu.edu.lb",
+      "homepage": "https://liu.edu.lb/cms26/",
+      "programs_url": "https://liu.edu.lb/cms26/",
+      "admissions_url": null,
+      "tuition_url": "https://liu.edu.lb/cms26/public/page.php?slug=tuition",
+      "financial_aid_url": "https://liu.edu.lb/cms26/public/page.php?slug=financial-aid",
+      "housing_url": null
+    },
+    {
+      "name": "American University of Science and Technology",
+      "short_name": "AUST",
+      "domain": "aust.edu.lb",
+      "homepage": "https://www.aust.edu.lb",
+      "programs_url": null,
+      "admissions_url": null,
+      "tuition_url": "https://www.aust.edu.lb/section/the-admission/tuition-fees-and-expenses/undergraduate-tuition-fees/224",
+      "financial_aid_url": null,
+      "housing_url": null
+    },
+    {
+      "name": "Haigazian University",
+      "short_name": "HU",
+      "domain": "haigazian.edu.lb",
+      "homepage": "https://www.haigazian.edu.lb",
+      "programs_url": "https://www.haigazian.edu.lb/academics/undergraduate-programs/",
+      "admissions_url": "https://www.haigazian.edu.lb/admissions/undergraduate-admissions/admissions-information/",
+      "tuition_url": "https://www.haigazian.edu.lb/admissions/tuition-fees/undergraduate-tuition-and-fees/",
+      "financial_aid_url": "https://www.haigazian.edu.lb/admissions/financial-aid/",
+      "housing_url": null
+    },
+    {
+      "name": "Antonine University",
+      "short_name": "UA",
+      "domain": "ua.edu.lb",
+      "homepage": "https://ua.edu.lb",
+      "programs_url": "https://ua.edu.lb/en/undergraduate/programs",
+      "admissions_url": "https://www.ua.edu.lb/en/undergraduate/selection-criteria",
+      "tuition_url": "https://ua.edu.lb/en/governance/bursar/fees",
+      "financial_aid_url": "https://ua.edu.lb/en/office-of-social-affairs/financial-aid-and-scholarships",
+      "housing_url": null
+    },
+    {
+      "name": "Rafik Hariri University",
+      "short_name": "RHU",
+      "domain": "rhu.edu.lb",
+      "homepage": "https://www.rhu.edu.lb",
+      "programs_url": "https://www.rhu.edu.lb/admission/undergraduate/undergraduate-programs",
+      "admissions_url": "https://www.rhu.edu.lb/admission/undergraduate/admission-requirements",
+      "tuition_url": "https://www.rhu.edu.lb/admission/fees-expenses",
+      "financial_aid_url": "https://www.rhu.edu.lb/student-affair/financial-aid-program",
+      "housing_url": null
+    },
+    {
+      "name": "Phoenicia University",
+      "short_name": "PU",
+      "domain": "pu.edu.lb",
+      "homepage": "https://www.pu.edu.lb",
+      "programs_url": "https://www.pu.edu.lb/undergraduate",
+      "admissions_url": "https://pu.edu.lb/admission-requirements",
+      "tuition_url": "https://pu.edu.lb/undergraduate-tuition-and-fees",
+      "financial_aid_url": null,
+      "housing_url": null
+    },
+    {
+      "name": "Modern University for Business and Science",
+      "short_name": "MUBS",
+      "domain": "mubs.edu.lb",
+      "homepage": "https://www.mubs.edu.lb",
+      "programs_url": "https://www.mubs.edu.lb/en/academics_mubs.aspx",
+      "admissions_url": "https://www.mubs.edu.lb/en/admission.aspx",
+      "tuition_url": "https://www.mubs.edu.lb/en/admission.aspx",
+      "financial_aid_url": null,
+      "housing_url": null
+    }
+  ]
+}

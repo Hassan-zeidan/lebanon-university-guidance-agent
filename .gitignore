@@ -1,0 +1,29 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# macOS files
+.DS_Store
+
+# Environment variables / secrets
+.env
+.env.*
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+*.tmp
+
+# Playwright/cache folders
+.playwright/
+
+# Evaluation output generated locally
+evaluation_results.json
+.Rhistory
